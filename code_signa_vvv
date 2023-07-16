@@ -1,0 +1,82 @@
+<style>.fond_cercle1{
+    width: 70px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 8px;
+    background: linear-gradient(90deg, var(--co1), var(--co2));
+    border-radius: 50%;
+}
+
+.cercle1{
+border-radius: 50%;
+border: 5px solid transparent;
+width: 70px;
+height: 70px;
+object-fit: cover;
+}
+
+.fond_cercle2{
+    width: 40px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 8px;
+    background: linear-gradient(45deg, var(--co1), var(--co2));
+    border-radius: 50%;
+}
+
+.cercle2{
+    border-radius: 50%;
+    border: 3px solid transparent;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+.fond_carre1{
+width: 70px;
+text-align: center;
+font-size: 10px;
+line-height: 8px;
+background: linear-gradient(90deg, var(--co1), var(--co2));
+}
+
+.carre1{
+    border: 5px solid transparent;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+
+.fond_carre2{
+    width: 40px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 8px;
+    background: linear-gradient(45deg, var(--co1), var(--co2));
+}
+
+.carre2{
+    border: 3px solid transparent;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+
+
+.titre_signa{
+    font-size: 14px;
+    font-family: 'Blushing Rose';
+    background: linear-gradient(-90deg,var(--co1), var(--co1), var(--co2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    line-height: 23px;
+    position: relative;
+    text-align: left;
+}
+
+.texte_signa{
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: 11px;
+}
+</style>
